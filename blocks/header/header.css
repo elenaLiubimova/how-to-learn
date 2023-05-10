@@ -1,0 +1,12 @@
+.header {
+  position: relative; /* Для абсолютного позиционирования дочерних элементов */
+
+  display: flex;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  align-items: center;
+  overflow: hidden;
+
+  background-color: #f2f2f2;
+}

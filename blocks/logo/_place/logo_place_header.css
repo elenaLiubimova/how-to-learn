@@ -1,0 +1,8 @@
+.logo_place_header {
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  z-index: 2; /* Позиционирование логотипа поверх других блоков на малых разрешениях */
+
+  background-image: url(../../../images/logo_place_header.svg);
+}

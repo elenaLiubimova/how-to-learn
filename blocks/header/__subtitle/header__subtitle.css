@@ -1,0 +1,14 @@
+.header__subtitle {
+  z-index: 2; /* Позиционирование текста поверх других блоков на малых разрешениях*/
+
+  position: absolute;
+  bottom: 30px;
+  left: 64px;
+  max-width: 388px;
+  width:100%;
+
+  margin: 0;
+
+  line-height: 25px;
+  font-size: 18px;
+}
